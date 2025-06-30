@@ -46,3 +46,12 @@ Contribuidor principal: https://github.com/SOTILLOCRJ
 
 
 [![Logo do PHP](https://programacion.net/files/article/20211124101110_php-mysql.png)](https://github.com/SOTILLOCRJ)
+
+## Codigo da funcao soma
+
+```javascript
+function soma(a,b){
+return a+b;
+
+}
+```
