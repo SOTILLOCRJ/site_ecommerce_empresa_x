@@ -5,6 +5,6 @@
  ## Funcionalidade:
  checkout, Tela de produto, Catalago, home com banner
 
- ######Melhoria do projeto:
+ ###### Melhoria do projeto:
 
  Melhoria 1, melhoria 2
