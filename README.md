@@ -55,3 +55,10 @@ return a+b;
 
 }
 ```
+
+## Lista de tarefas a fazer:
+
+- [ x ] Area de membros 
+- [ ] Integracao com outors pagamentos 
+- [ ] Sistema de bonus
+- [ x ] CSS do rodape
