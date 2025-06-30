@@ -35,3 +35,7 @@
 #### Imagem externa
 
 ![Logo do PHP](https://programacion.net/files/article/20211124101110_php-mysql.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
