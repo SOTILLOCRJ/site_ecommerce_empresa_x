@@ -22,6 +22,9 @@
 ### Funcionalidades a desenvolver:
 
 1. Area de membros
+ 1. Login diferente para grupor de cliente
+ 2. Desconto especial para grupos de clientes 
+ 3. CSS diferentes para grupos d e clientes
 2. Integracao com outros pagamentos
 3. Sistema de bonus primeira compra
 
