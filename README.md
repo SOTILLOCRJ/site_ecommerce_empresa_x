@@ -28,4 +28,6 @@
 2. Integracao com outros pagamentos
 3. Sistema de bonus primeira compra
 
+#### Imagem local
 
+![logo do Laravel](img/laravel.png)
